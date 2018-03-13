@@ -1,0 +1,15 @@
+
+a) 	Total execution time is 10 seconds which is time it takes for the first thread to run seeing as the counter is 10 times with a delkay of one second
+
+
+b) 	The class myThread implements the threading and the modules of myThread(a,b,c,d) and the thread.start() function to create the threads
+
+
+c)
+
+1) 	The code now runs with five threads
+
+2) 	The total execution time is the higest number of teh delay times the thread counter. Therefore it takes 20 seconds to complete 
+	because the highestr value is delay of 5 with a counter of 4 for the fifth thread i.e 20 seconds to complete.
+
+3) 	get_name(), active_count() and current_thread() have been implemented in the printing function. 
